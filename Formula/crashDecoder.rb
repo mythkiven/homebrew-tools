@@ -5,7 +5,7 @@ class Crashdecoder < Formula
     # In formula file: /opt/homebrew/Library/Taps/mythkiven/homebrew-tools/Formula/crashdecoder.rb
     desc "iOS崩溃日志分析和符号化工具"
     homepage "https://github.com/mythkiven/HomebrewScript/tree/main/iOSCrashDecoder-1.0.0"
-    url "https://github.com/mythkiven/HomebrewScript/releases/download/1.0.0/v1.0.0.tar.gz"
+    url "https://github.com/mythkiven/HomebrewScript/releases/download/1.0.1/v1.0.0.tar.gz"
     # 这里的 url 不能直接使用 github 上的地址，需要使用 release 下载包的地址。
     # 否则brew安装，会报错 sha不匹配。因为每次github给brew的包，都会重新计算sha256。
 
