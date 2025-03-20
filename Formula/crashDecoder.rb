@@ -8,8 +8,8 @@ class Crashdecoder < Formula
     url "https://github.com/mythkiven/HomebrewScript/releases/download/1.0.0/v1.0.0.tar.gz"
     # 这里的 url 不能直接使用 github 上的地址，需要使用 release 下载包的地址。
     # 否则brew安装，会报错 sha不匹配。因为每次github给brew的包，都会重新计算sha256。
-    
-    sha256 "aefca7729d12d862b5e6207cb4d58239a10a8b750ce1ece5734e5ddcafee69c0"
+
+    sha256 "be04509fba05f87c53627efb05b00bce00670e73837cebbff5155ce00cd77e65"
     license "MIT"
     
     def install
