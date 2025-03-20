@@ -1,4 +1,4 @@
-class Crashanalysis < Formula
+class CrashDecoder < Formula
     desc "iOS崩溃日志分析和符号化工具"
     homepage "https://github.com/mythkiven/HomebrewScript/tree/main/iOSCrashDecoder-1.0.0"
     url "https://github.com/mythkiven/HomebrewScript/tree/main/iOSCrashDecoder-1.0.0/archive/v1.0.0.tar.gz"
