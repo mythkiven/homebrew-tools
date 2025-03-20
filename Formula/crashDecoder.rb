@@ -6,7 +6,7 @@ class Crashdecoder < Formula
     desc "iOS崩溃日志分析和符号化工具"
     homepage "https://github.com/mythkiven/HomebrewScript/tree/main/iOSCrashDecoder-1.0.0"
     url "https://github.com/mythkiven/HomebrewScript/tree/main/iOSCrashDecoder-1.0.0/archive/v1.0.0.tar.gz"
-    sha256 "72c823899c9b3320cdae8677e36bac5f12d85026b0d4e7b45d8eb906cdabf3f0"
+    sha256 "aefca7729d12d862b5e6207cb4d58239a10a8b750ce1ece5734e5ddcafee69c0"
     license "MIT"
     
     def install
