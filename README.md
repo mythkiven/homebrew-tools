@@ -1,18 +1,7 @@
 # homebrew-tools
-<!-- farm-yolo-1 -->
 
-<!-- farm-yolo-2 -->
+Personal Homebrew tap for custom formulae.
 
-<!-- farm-yolo-3 -->
-
-<!-- farm-yolo-4 -->
-
-<!-- farm-yolo-5 -->
-
-<!-- farm-yolo-6 -->
-
-<!-- farm-yolo-7 -->
-
-<!-- farm-yolo-8 -->
-
-<!-- farm-quickdraw-pr -->
+```bash
+brew tap mythkiven/tools https://github.com/mythkiven/homebrew-tools
+```
