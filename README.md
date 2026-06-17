@@ -36,3 +36,9 @@ Inspect formula metadata:
 ```bash
 brew info mythkiven/tools/crashDecoder
 ```
+
+Reinstall:
+
+```bash
+brew reinstall mythkiven/tools/crashDecoder
+```
