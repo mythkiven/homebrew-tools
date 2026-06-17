@@ -4,6 +4,7 @@ Personal Homebrew tap for custom formulae and utilities.
 
 ```bash
 brew tap mythkiven/tools https://github.com/mythkiven/homebrew-tools
+brew update
 ```
 
 ## Formulae
