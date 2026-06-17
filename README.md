@@ -24,3 +24,9 @@ Upgrade:
 ```bash
 brew upgrade mythkiven/tools/crashDecoder
 ```
+
+Uninstall:
+
+```bash
+brew uninstall mythkiven/tools/crashDecoder
+```
