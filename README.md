@@ -30,3 +30,9 @@ Uninstall:
 ```bash
 brew uninstall mythkiven/tools/crashDecoder
 ```
+
+Inspect formula metadata:
+
+```bash
+brew info mythkiven/tools/crashDecoder
+```
