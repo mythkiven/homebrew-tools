@@ -18,3 +18,9 @@ Install example:
 ```bash
 brew install mythkiven/tools/crashDecoder
 ```
+
+Upgrade:
+
+```bash
+brew upgrade mythkiven/tools/crashDecoder
+```
